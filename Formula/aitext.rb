@@ -1,8 +1,8 @@
 class Aitext < Formula
   desc "AI text transforms on a keyboard shortcut, anywhere in macOS"
   homepage "https://github.com/Ninodevo/aitext"
-  url "https://github.com/Ninodevo/aitext/archive/refs/tags/v1.2.1.tar.gz"
-  sha256 "e82b780233eb541dfe6b9babe79732c40ca42b2bdcf5e1ad5d232d6944424407"
+  url "https://github.com/Ninodevo/aitext/archive/refs/tags/v1.2.2.tar.gz"
+  sha256 "8c31e4d8fee824501e8091910252aa23b9a2c28860ac186783aae97fd0c9c633"
   license "MIT"
 
   depends_on "jq"
